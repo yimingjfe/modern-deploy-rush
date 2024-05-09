@@ -408,5 +408,17 @@
     //   "reviewCategory": "tools",
     //   "tags": [ "tools" ]
     // }
+    {
+      "packageName": "app",
+      "projectFolder": "packages/app"
+    },
+    {
+      "packageName": "express",
+      "projectFolder": "packages/express"
+    },
+    {
+      "packageName": "utils",
+      "projectFolder": "packages/utils"
+    }
   ]
 }
